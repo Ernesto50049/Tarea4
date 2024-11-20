@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Rolex Daytona Platinum",
+      "description": "Este modelo es uno de los más exclusivos de la línea Daytona, con una caja de platino y una esfera azul glaciar. ",
+      "image": "rolex1.webp",
+      "cost": "85,000 USD"
+    },
+    {
+      "title": " Rolex Submariner Date 18K Oro Amarillo",
+      "description": "El Submariner es uno de los modelos más icónicos de Rolex. Esta versión, en 18K oro amarillo, tiene un bisel cerámico negro y una esfera negra. ",
+      "image": "rolex2.jpeg",
+      "cost": "40,000 USD"
+    },
+    {
+      "title": "Rolex Day-Date 40",
+      "description": " Conocido como el Reloj del Presidente, el Day-Date 40 es un reloj de lujo con una caja de 40 mm en oro amarillo.",
+      "image": "rolex3.jpg",
+      "cost": "45,000 USD"
+    },
+    {
+      "title": "Rolex GMT-Master (Pepsi)",
+      "description": " Con una caja de acero inoxidable y un bisel bicolor en azul y rojo (inspirado en los colores de la bandera estadounidense, conocido como Pepsi).",
+      "image": "rolex4.jpg",
+      "cost": "11,000 USD"
+    },
+    {
+      "title": "Rolex Sky-Dweller",
+      "description": " El Sky-Dweller es uno de los relojes más complejos de Rolex, combinando un calendario anual con una función de segunda zona horaria.",
+      "image": "rolex5.avif",
+      "cost": "16,000 USD"
+    },
+    {
+      "title": " Rolex Oyster Perpetual 39mm",
+      "description": "Un reloj clásico y elegante con una esfera sencilla pero sofisticada. Este modelo en particular tiene una caja de acero inoxidable y un diámetro de 39 mm.",
+      "image": "rolex6.webp",
+      "cost": "7,000 USD"
+    },
+    {
+        "title": "Rolex Milgauss",
+        "description": "El Milgauss es el reloj antimagnetismo por excelencia de Rolex, diseñado para resistir campos magnéticos de hasta 1,000 gauss.",
+        "image": "rolex7.webp",
+        "cost": "9,500 USD"
+    },
+    {
+        "title": " Rolex Yacht-Master 40",
+        "description": " El Yacht-Master es un reloj deportivo y elegante, diseñado específicamente para navegantes. Tiene una caja de acero inoxidable y platino, un bisel giratorio y una excelente resistencia al agua, hasta 100 metros.",
+        "image": "rolex8.avif",
+        "cost": "13,500 USD"
+    },
+    {
+        "title": "Rolex Submariner No-Date",
+        "description": "Este modelo es una versión más purista del Submariner, sin la complicación de la fecha. Con una caja de acero inoxidable y un bisel cerámico negro, es un reloj muy codiciado por los coleccionistas debido a su simplicidad y elegancia atemporal.",
+        "image": "rolex9.avif",
+        "cost": "10,000 USD"
+    },
+    {
+        "title": "Rolex Cosmograph Daytona,John Player Special",
+        "description": "Un reloj muy exclusivo y deseado, especialmente por los coleccionistas. Esta edición limitada tiene una esfera negra con detalles dorados, lo que le da un toque muy distintivo. Es uno de los modelos más raros y caros en el mercado de relojes Rolex, con una historia vinculada a la Fórmula 1.",
+        "image": "rolex10.jpeg",
+        "cost": "400,000 USD"
+    }
+]
+  
